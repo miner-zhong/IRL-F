@@ -3,8 +3,6 @@
 '''
 
 Implementation of IRL-F
-（code inspired by .......）
-
 Written by Miner Zhong.
 
 
